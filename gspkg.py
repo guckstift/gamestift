@@ -1,5 +1,0 @@
-
-gspkgDeps = []
-pkgDeps = []
-resFiles = []
-
